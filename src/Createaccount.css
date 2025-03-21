@@ -1,0 +1,22 @@
+.text{
+    text-align: center;
+    justify-content: center;
+    padding: 250px;
+
+}
+.ani{
+   
+    height:300px;
+    width:300px;
+    align-items: center;
+    padding-top: 100px;
+    padding-left: 470px;
+}
+
+.done{
+    padding-left: 410px;
+}
+.message{
+    font-size: 25px;
+    color: darkseagreen;
+}

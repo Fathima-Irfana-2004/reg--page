@@ -5,7 +5,7 @@
   padding-left:350px;
   padding-top:50px;
   padding-bottom:50px;
- background-image:url("src/c4.jfif");
+ background-image:url("img4.webp");
  min-height:100%;
  background-size: cover;
  background-repeat: no-repeat;
@@ -15,8 +15,8 @@
 }
 .innerbox{
   border-radius: 30px;
-  background-color:rgba(255, 228, 196, 0.701);
-  color:darkblue;
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0.861),rgba(107, 182, 239, 0.815));
+  color:black;
   margin-right: 400px;
   padding-left: 40px;
   padding-right: 40px;
