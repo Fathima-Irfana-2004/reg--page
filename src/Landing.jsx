@@ -1,6 +1,6 @@
 import React from 'react'
 import{Link} from "react-router-dom";
-const Home = () => {
+const Landing = () => {
   return (
     <>
       <div className='heading'>
@@ -72,4 +72,4 @@ const Home = () => {
   )
 }
 
-export default Home;
+export default Landing;
