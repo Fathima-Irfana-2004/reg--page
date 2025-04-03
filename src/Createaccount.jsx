@@ -8,14 +8,14 @@ const Createaccount = () => {
     <>
     <div className='content'>
     <div className='ani'>
-    <Lottie
+    <Lottie    
     animationData={SuccessAni}
     /> 
     </div>
     <div className='done'>
       <h3 className='message'> You have Successully Created your Account</h3>
     </div>
-    </div>
+    </div> 
     </>
   );
 }

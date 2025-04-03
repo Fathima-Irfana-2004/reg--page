@@ -4,17 +4,16 @@ const Home = () => {
   return (
     <>
       <div className='heading'>
-        
         <div class='box'>
-          <form>
+             <form>
             <div className='innerbox'>
               <h1 className="h">Registration Form</h1>
-            <div class='cont'>      
+            <div class='cont'>
             <label for='fname'>First name:</label>
             <input type='text' className='fname' placeholder='First Name' ></input>
             </div>
             <br></br>
-            <div className='cont'>  
+            <div className='cont'>
             <label for='lname'>Last Name:</label>
             <input type='text' className='lname'  placeholder='Last Name'></input>
             </div>
@@ -35,14 +34,14 @@ const Home = () => {
             <br></br>
             <div className='cont'>  
              <label for='email'>Email:</label>
-            <input type='email' className='email'  placeholder='Email'></input>
+            <input type='email' className='email'  placeholder='Email'></input>   
             </div>
             <br></br>
             <div className='cont'>  
             <label for='address'>Address:</label>
             <input type='text' className='address'  placeholder='Address'></input>
             </div>
-            <br></br>
+            <br></br>  
             <div className='cont'>  
             <label for='pass1'>Password:</label>
             <input type='password' className='pass1'  placeholder='.....'></input>
@@ -59,7 +58,7 @@ const Home = () => {
             </div>          
           <Link to="/Createaccount">
             <button className='create'>create Account</button>
-            </Link>
+            </Link>   
             
           
             </div>
